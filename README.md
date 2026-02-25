@@ -37,7 +37,7 @@ Hi! I’m **Branson Abira** from Kenya 🌍
 
 ## 🎓 Education
 - **Bachelor of Science in Information Technology**, Kabarak University (Sep 2019 – Dec 2023)  
-  - Relevant coursework: Software Engineering  
+  - Relevant coursework: Software Engineering
 - **Certificate in Cybersecurity – Security Analysis**, CyberShujaa (Jan 2026 – Present)  
 - **Kenya Certificate of Secondary Education**, Chemelil Sugar Academy (Jan 2015 – Dec 2018)  
 
