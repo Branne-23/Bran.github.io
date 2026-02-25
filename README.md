@@ -67,7 +67,7 @@ Hi! I’m **Branson Abira** from Kenya 🌍
 ---
 
 ## 📂 Projects & Labs
-- 💻 Labs & exercises from **TryHackMe** & **Hack The Box** 🔍  
+- 💻 [Labs & exercises](Screenshot From2026-02-03 01-37-33.png)from **TryHackMe** & **Hack The Box** 🔍  
 - Troubleshooting & network management exercises 🖥️  
 - System administration projects: setup, upgrade, and maintenance of desktops/servers 💻  
 - CTF challenges & hands-on experiments [(Click to view)](branson_abira_cs-sa12-26024.pdf) 🕹️ 
