@@ -1,99 +1,95 @@
-┌─────────────────────────────────────────────┐
-│ 💻 Branson Abira – IT & Cybersecurity │
-│ Portfolio Repository │
-└─────────────────────────────────────────────┘
+# 💻 Curriculum Vitae
+ 
+I’m Branson, a results-oriented IT professional with hands-on experience in IT systems, networking, troubleshooting, and cybersecurity fundamentals. This portfolio showcases my journey, skills, projects, and learning in IT and cybersecurity. 🔐
 
-Welcome to my cyber portfolio! 🔐
-Tracking my journey in IT systems, networking, troubleshooting, and cybersecurity fundamentals.
+---
 
-───────────────────────────────────────────────
+## 🚀 About Me
+Hi! I’m **Branson Abira** from Kenya 🌍  
+- 🔹 IT professional with **2 years of experience** in managing IT systems and supporting departments  
+- 🔹 Currently learning **Cybersecurity** with a concentration in **Security Analysis** (CyberShujaa, Jan 2026 - Present)  
+- 🔹 Skilled in **system administration, network management, troubleshooting, and ERP support**  
+- 🔹 Fluent in **English & Swahili** 🗣️
+- 🔹 Passionate about **cybersecurity, ethical hacking, and system defense**  
+- 🔹 Exploring both **offensive & defensive cybersecurity** (Purple Team mindset)  
 
-SYSTEM INFO: Nairobi 🌍 | Languages: English & Swahili 🗣️
-Current Learning: Cybersecurity – Security Analysis (CyberShujaa, 2026)
-───────────────────────────────────────────────
+---
 
-[INFO] Work Experience:
-───────────────────────────────────────────────
+## 🛠 Work Experience
 
-IT Assistant – Golden Elites Schools (Jan 2024 – Present)
-• Support e-learning platforms & computer labs 💻
-• Technical support across departments 🛠️
-• Install, configure & maintain IT equipment 🖥️
-• System updates, backups & basic cybersecurity 🔐
-• Network & basic server management 🌐
+### **IT Assistant – Golden Elites Schools**  
+*January 2024 – Present*  
+- Support e-learning platforms, school management systems, and computer labs 💻  
+- Provide technical support across departments 🛠️  
+- Install, configure, and maintain IT equipment 🖥️  
+- Perform software updates, data backups, and basic cybersecurity measures 🔐  
+- Manage school network, internet connectivity, and basic server operations 🌐  
 
-IT Intern – CIHEB Kenya (Feb 2023 – Mar 2023)
-• Installed/configured network equipment (APs & LTE) 📶
-• Software installation & upgrades (HMIS, Windows/Linux, Office) 🖥️
-• On-site troubleshooting & problem resolution 🔧
-• Maintenance & repair of desktops/laptops/servers 🛠️
-• Configured Samsung KNOX security profiles 🔒
+### **IT Intern – CIHEB Kenya**  
+*February 2023 – March 2023*  
+- Installed and configured network equipment including Access Points and LTE devices 📶  
+- Performed software installation, configuration, and upgrades (Windows/Linux, HMIS, WebADT) 🖥️  
+- Provided on-site support, troubleshooting, and problem resolution 🔧  
+- Maintained and repaired desktops, laptops, and servers 🛠️  
+- Configured Samsung KNOX security profiles 🔒  
 
-───────────────────────────────────────────────
-[INFO] Education:
-───────────────────────────────────────────────
+---
 
-BSc in Information Technology – Kabarak University (2019–2023)
-Cybersecurity Certificate – CyberShujaa (2026 – Present)
-Kenya Certificate of Secondary Education – Chemelil Sugar Academy (2015–2018)
+## 🎓 Education
+- **Bachelor of Science in Information Technology**, Kabarak University (Sep 2019 – Dec 2023)  
+  - Relevant coursework: Software Engineering  
+- **Certificate in Cybersecurity – Security Analysis**, CyberShujaa (Jan 2026 – Present)  
+- **Kenya Certificate of Secondary Education**, Chemelil Sugar Academy (Jan 2015 – Dec 2018)  
 
-───────────────────────────────────────────────
-[INFO] Technical Skills:
-───────────────────────────────────────────────
+---
 
-Networking fundamentals 🌐
+## 🛠 Skills
 
-System administration 🖥️
+### **Technical Skills**
+- Networking fundamentals 🌐  
+- System administration 🖥️  
+- Computer hardware & software troubleshooting 🛠️  
+- Cybersecurity basics & data backup 🔐  
+- Software installation, configuration, & updates 💾  
+- Operating systems: Windows & Linux 💻  
+- Microsoft Office Suite 📊
+- **Networking:** TCP/IP, DNS, Firewalls 🌐  
+- **Security Tools:** Wireshark, Kali Linux, VirtualBox, Metasploit 🛡️ 
 
-Hardware & software troubleshooting 🛠️
+### **Soft Skills**
+- Strong communication & interpersonal skills 🗣️  
+- Problem-solving & critical thinking 🧠  
+- Time management ⏱️  
+- Adaptability & flexibility in dynamic environments 🔄  
+- Teamwork & collaboration 🤝  
+- Customer service orientation 💡  
 
-Cybersecurity basics & data backup 🔐
+---
 
-Software installation & updates 💾
+## 📂 Projects & Labs
+- Labs & exercises from **cybersecurity training programs** 🔍  
+- Troubleshooting & network management exercises 🖥️  
+- System administration projects: setup, upgrade, and maintenance of desktops/servers 💻  
+- CTF challenges & hands-on experiments (to be added) 🕹️  
 
-Windows & Linux 💻
+---
 
-Microsoft Office Suite 📊
+## 📚 Learning Journey
+- Security Analyst ✅ In Progress  
+- Home lab setups 🖥️💡  
+- Daily practice & CTF challenges 🕹️  
+- Continuous learning & documenting 🔍  
 
-───────────────────────────────────────────────
-[INFO] Soft Skills:
-───────────────────────────────────────────────
+---
 
-Communication & interpersonal 🗣️
+## ✨ Connect With Me
+- 📧 Email: abirabransone@gmail.com  
+- 📱 Phone: (+254) 714129951  
+- 🔗 LinkedIn: [www.linkedin.com/in/branson-abira](https://www.linkedin.com/in/branson-abira)  
+- 🐱‍💻 GitHub: [My GitHub URL](https://branne-23.github.io/Bran.github.io/) 
 
-Problem-solving & critical thinking 🧠
+---
 
-Time management ⏱️
-
-Adaptability & flexibility 🔄
-
-Teamwork & collaboration 🤝
-
-Customer service orientation 💡
-
-───────────────────────────────────────────────
-[INFO] Projects & Labs:
-───────────────────────────────────────────────
-
-Cybersecurity labs & exercises 🔍
-
-Network management projects 🌐
-
-System admin setups, upgrades, & maintenance 🖥️
-
-CTF challenges & hands-on practice 🕹️
-
-───────────────────────────────────────────────
-[INFO] Contact:
-───────────────────────────────────────────────
-📧 abirabransone@gmail.com
-
-📱 (+254) 714129951
-🔗 LinkedIn: linkedin.com/in/branson-abira
-
-🐱‍💻 GitHub: [Your GitHub URL]
-
-───────────────────────────────────────────────
-[INFO] Motto:
-───────────────────────────────────────────────
-“Learning never stops, and security never sleeps.” 🔐
+## ⚡ Fun Fact
+I’m passionate about **continuous learning** and bridging IT systems with **cybersecurity**.  
+> “Learning never stops, and security never sleeps.” 🔐
