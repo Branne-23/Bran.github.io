@@ -86,7 +86,7 @@ Hi! I’m **Branson Abira** from Kenya 🌍
 - 📧 Email: abirabransone@gmail.com  
 - 📱 Phone: (+254) 714129951  
 - 🔗 LinkedIn: [www.linkedin.com/in/branson-abira](https://www.linkedin.com/in/branson-abira)  
-- 🐱‍💻 GitHub: [My GitHub URL](https://branne-23.github.io/Bran.github.io/) 
+- 🐱‍💻 GitHub: [My GitHub Link](https://branne-23.github.io/Bran.github.io/) 
 
 ---
 
