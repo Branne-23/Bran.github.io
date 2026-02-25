@@ -92,4 +92,5 @@ Hi! I’m **Branson Abira** from Kenya 🌍
 
 ## ⚡ Fun Fact
 I’m passionate about **continuous learning** and bridging IT systems with **cybersecurity**.  
+I also love **exploring the latest tech trends**, staying ahead in AI, networks, and the future of cyber defense 🌟  
 > “Learning never stops, and security never sleeps.” 🔐
