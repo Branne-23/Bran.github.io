@@ -17,13 +17,28 @@ Hi! I’m **Branson Abira** from Kenya 🌍
 
 ## 🛠 Work Experience
 
-### **IT Assistant – Golden Elites Schools**  
-*January 2024 – Present*  
-- Support e-learning platforms, school management systems, and computer labs 💻  
-- Provide technical support across departments 🛠️  
-- Install, configure, and maintain IT equipment 🖥️  
-- Perform software updates, data backups, and basic cybersecurity measures 🔐  
-- Manage school network, internet connectivity, and basic server operations 🌐  
+### **Technology Coordinator – Golden Elites Schools**  
+*January 2025 – Present*  
+- Manage the Learning Management System (LMS). 🏫
+- Manage online educational resources and platforms. 🖥️
+- Evaluate new educational software and tools. 📌
+- Coordinate implementation of new technology projects. 💡
+- Assist in developing updated technology strategy. ✅
+- Assist in providing guidance on best practices in digital learning. 📜
+- Assist in the integration of technology in learning. 👩🏻‍💻📓✍🏻💡
+- Supporting staff during technology adoption. 🛠️
+
+### **IT Officer – Golden Elites Schools**  
+*February 2024 – Present*  
+- Provide first and second-level IT support to all stakeholders 🛠️
+-	Maintain school management systems💻
+- Support LMS platforms 🔧 
+- Troubleshoot internet and network issues 🔎
+- Keep records of IT equipment 💼
+- Ensure proper maintenance of computer labs 🖥️
+- Assist in data protection compliance 🔐
+- Work with vendors and service providers 🤝
+- Track and manage IT assets and inventory 🧐
 
 ### **IT Intern – CIHEB Kenya**  
 *February 2023 – March 2023*  
