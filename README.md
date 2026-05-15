@@ -7,7 +7,7 @@ I’m Branson, a results-oriented IT professional with hands-on experience in IT
 ## 🚀 About Me
 Hi! I’m **Branson Abira** from Kenya 🌍  
 - 🔹 IT professional with **2 years of experience** in managing IT systems and supporting departments  
-- 🔹 Currently learning **Cybersecurity** with a concentration in **Security Analysis** (CyberShujaa, Jan 2026 - Present)  
+- 🔹 Junior Cybersecurity Analyst with a concentration in **Security Analysis** 
 - 🔹 Skilled in **system administration, network management, troubleshooting, and ERP support**  
 - 🔹 Fluent in **English & Swahili** 🗣️
 - 🔹 Passionate about **cybersecurity, ethical hacking, and system defense**  
